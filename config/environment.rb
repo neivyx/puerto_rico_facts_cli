@@ -1,6 +1,9 @@
-require "nokogiri"
-require "pry"
-require "open-uri"
+require 'bundler/setup'
+
+
+# require "nokogiri"
+# require "pry"
+# require "open-uri"
 
 require_relative "../lib/version"
 require_relative "../lib/scraper.rb"
